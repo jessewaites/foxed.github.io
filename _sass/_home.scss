@@ -1,4 +1,4 @@
-div.intro {
+.intro {
   @include outer-container;
   width: 700px;
   margin: 0 auto;
@@ -8,6 +8,7 @@ div.intro {
     font-family: inconsolata;
     color: $fox-blue;
   }
+
   p {
     font-family: inconsolata;
     color: $fox-blue;
